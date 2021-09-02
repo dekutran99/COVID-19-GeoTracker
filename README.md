@@ -1,6 +1,6 @@
 # Covid-19-GeoTracker
 
-** No longer active
+***\*\* No longer active \*\****
 
 ### Website
 
