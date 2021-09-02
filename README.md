@@ -1,5 +1,7 @@
 # Covid-19-GeoTracker
 
+** No longer active
+
 ### Website
 
 https://covid19geotracker.tranquanghuy.me
