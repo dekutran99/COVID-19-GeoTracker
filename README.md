@@ -3,7 +3,7 @@
 ***\*\* No longer active \*\****
 
 ### Backend
-https://github.com/dekutran99/covid-19-tracker-bed
+https://github.com/dekutran99/covid19-tracker-be
 
 ### Frontend
-https://github.com/dekutran99/covid-19-tracker-fed
+https://github.com/dekutran99/covid19-tracker-fe
